@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Roberto 👋
 
-<!--
-**rchacons/rchacons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Software Engineer** based in France.
 
-Here are some ideas to get you started:
+### ⚙️ Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Using **Java** and **Spring Boot**, with some **Angular** at work.
+* Learning **Go** and building personal sites with **Next.js**
+* Exploring **AI integration** in backend workflows
+
+### 📚 Favorite Tech Reads
+
+* *Currently reading*: *Refactoring: Improving the Design of Existing Code*
+* *Software Engineering at Google*
+* *Understanding Distributed Systems*
+* *Grokking Algorithms*
+* *Software Architecture: The Hard Parts*
+* *Head First Java*
+
+### 🌿 Outside of Coding
+
+* Piano (slowly learning!)
+* Watching football
+* Reading books - tech and personal development.
+
+### 🤝 Connect
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/roberto-chacon)
+
